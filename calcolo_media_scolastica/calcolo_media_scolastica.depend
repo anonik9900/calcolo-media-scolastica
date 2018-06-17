@@ -2,3 +2,10 @@
 1521908896 source:c:\users\nicholas impieri\desktop\calcolo_media_scolastica\main.cpp
 	<iostream>
 
+1529281821 source:c:\users\nicholas impieri\desktop\{dev}\calcolo_media_scolastica\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+
